@@ -22,16 +22,16 @@ export default function Home() {
       {/* HERO SECTION PREMIUM */}
       <section className="relative h-[80vh] flex items-center justify-center overflow-hidden">
         <div className="relative z-10 text-center px-4 flex flex-col items-center">
-          <div className="mb-6 animate-fade-in">
+          <div className="mb-6 animate-fade-in invert">
             <img 
-              src="https://wwuclhmpvfjrtbfwoaub.supabase.co/storage/v1/object/public/Servicos/logo%20dvargas.png" 
+              src="https://rrwxenfxczyiqdjhhxem.supabase.co/storage/v1/object/public/logos/zolin.jpg" 
               alt="Logo" 
               className="w-40 h-40 md:w-52 md:h-52 object-contain"
             />
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold text-white tracking-tighter mb-6">
-            BAHRBEARIA<span className="text-primary inline-block hover:scale-110 transition-transform"></span>
+            Zolin Corte Clube<span className="text-primary inline-block hover:scale-110 transition-transform"></span>
           </h1>
 
           <div className="flex flex-col md:flex-row gap-4 justify-center">
