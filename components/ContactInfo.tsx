@@ -2,12 +2,12 @@
 import { FaWhatsapp, FaInstagram, FaMapMarkerAlt, FaClock } from 'react-icons/fa'
 import { BUSINESS_HOURS } from '@/src/config/business-hours'
 
-export const whatsappNumber = "5551992308146"
+export const whatsappNumber = "5551998556268"
 
 export default function Contact() {
 
-  const instagramUser = "dvargasbarber" 
-  const address = "R. Nestor de Moura Jardim, 475 - Salgado Filho - Gravataí - RS"
+  const instagramUser = "zolincorteclube" 
+  const address = "R. Alfredo Emilio Allen, 360 - Salgado Filho, Gravataí - RS"
   const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`
 
   return (
@@ -38,7 +38,7 @@ export default function Contact() {
                 </div>
                 <div className="ml-6">
                   <p className="text-xs uppercase tracking-widest text-zinc-500 font-bold">WhatsApp</p>
-                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 98058-3680</p>
+                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 99855-6268</p>
                 </div>
               </a>
 
@@ -97,7 +97,7 @@ export default function Contact() {
             
             <div className="relative z-10 w-full h-full bg-zinc-900 overflow-hidden rounded-sm grayscale invert contrast-[0.9] hover:grayscale-0 transition-all duration-700">
                <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3463.344405391696!2d-50.983995!3d-29.93202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9519730f0f0f0f0f%3A0x0f0f0f0f0f0f0f0f!2sR.%20Nestor%20de%20Moura%20Jardim%2C%20475%20-%20Salgado%20Filho%2C%20Gravata%C3%AD%20-%20RS!5e0!3m2!1spt-BR!2sbr!4v1700000000000!5m2!1spt-BR!2sbr" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27658.79247349443!2d-51.02795898914335!3d-29.940636795131603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95190bcf66860077%3A0x1ea9fe4179eff6a!2sZolin%20Corte%20Clube!5e0!3m2!1spt-BR!2sbr!4v1770663478309!5m2!1spt-BR!2sbr" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
